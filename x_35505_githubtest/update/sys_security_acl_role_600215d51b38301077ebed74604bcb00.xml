@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 09:29:43</sys_created_on>
+        <sys_id>600215d51b38301077ebed74604bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_35505_githubtest_testtable.x_35505_githubtest.testtable_user</sys_name>
+        <sys_package display_value="githubtestapp" source="x_35505_githubtest">c2d05d5d1b34301077ebed74604bcb2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="githubtestapp">c2d05d5d1b34301077ebed74604bcb2f</sys_scope>
+        <sys_security_acl display_value="x_35505_githubtest_testtable">a002d1d51b38301077ebed74604bcbfd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_600215d51b38301077ebed74604bcb00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 09:29:43</sys_updated_on>
+        <sys_user_role display_value="x_35505_githubtest.testtable_user" name="x_35505_githubtest.testtable_user">500251d51b38301077ebed74604bcb91</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
